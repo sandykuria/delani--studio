@@ -23,4 +23,3 @@ If you have any questions concerning the web application, feel free to contact m
 ### License
 Copyright (c) 2020 **MIT LICENSE**
  
-
