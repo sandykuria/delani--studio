@@ -22,5 +22,3 @@ I have also integreted bootstrap and jquery to make the site appealing and respo
 If you have any questions concerning the web application, feel free to contact me via kuriasandra651@gmail.com
 ### License
 Copyright (c) 2020 **MIT LICENSE
-
- 
