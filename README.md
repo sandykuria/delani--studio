@@ -1,6 +1,6 @@
 # DELANI STUDIO
 #### This is a web application for a photography studio which enables one to take a look of their work and to hire them for appointments too.This is the first version of this application.
-#### By *sandra kuria**
+#### By sandra kuria
 ## Description
 This web application is called delani studio.it enables one to take a look of their work and book appointments with them too.you can also communicate by sending an email and they'll reach out to you.
 ## Setup/Installation Requirements
